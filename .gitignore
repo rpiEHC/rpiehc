@@ -5,7 +5,7 @@
 
 # Databases #
 #############
-*.sqlite
+*.sqlite*
 *.db
 
 # Compiled source #
